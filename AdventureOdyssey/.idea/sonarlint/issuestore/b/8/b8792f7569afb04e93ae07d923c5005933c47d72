@@ -1,0 +1,27 @@
+
+˜
+java:S11926"vDefine a constant instead of duplicating this literal "Bu haritayÄ± zaten temizlediniz. Tekrar giremezsiniz!" 3 times.(…é–Üùÿÿÿÿ8«Á“ºå1
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8ïŽð·å1
+L
+java:S1066P"/Merge this if statement with the enclosing one.(ÕÙÿê8Ëî×¹å1
+G	java:S106"+Replace this use of System.out by a logger.(øª˜ï8´ìÊ³å1
+G	java:S106"+Replace this use of System.out by a logger.(£íÝ½8ïð×¹å1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8¶ìÊ³å1
+L	java:S106"+Replace this use of System.out by a logger.(§‡ßÊøÿÿÿÿ8òð×¹å1
+L	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8¶ìÊ³å1
+F	java:S106!"+Replace this use of System.out by a logger.(¤˜ùo8óð×¹å1
+L	java:S106""+Replace this use of System.out by a logger.(÷ö¼Õûÿÿÿÿ8óð×¹å1
+G	java:S106#"+Replace this use of System.out by a logger.(¸ª»â8óð×¹å1
+L	java:S106$"+Replace this use of System.out by a logger.(¼‹Ìäúÿÿÿÿ8ôð×¹å1
+L	java:S106%"+Replace this use of System.out by a logger.(ÂàáÎúÿÿÿÿ8ôð×¹å1
+G	java:S106&"+Replace this use of System.out by a logger.(ÂÉŒ†8õð×¹å1
+L	java:S106'"+Replace this use of System.out by a logger.(È¸¼¾úÿÿÿÿ8õð×¹å1
+L	java:S106("+Replace this use of System.out by a logger.(¡àºùýÿÿÿÿ8öð×¹å1
+L	java:S106-"+Replace this use of System.out by a logger.(·ßáöùÿÿÿÿ8÷ð×¹å1
+L	java:S1066"+Replace this use of System.out by a logger.(…é–Üùÿÿÿÿ8ùð×¹å1
+L	java:S106<"+Replace this use of System.out by a logger.(…é–Üùÿÿÿÿ8úð×¹å1
+L	java:S106B"+Replace this use of System.out by a logger.(…é–Üùÿÿÿÿ8ûð×¹å1
+D
+java:S1872O"'Use an "instanceof" comparison instead.(™äÈŒ8üð×¹å1
+G	java:S106Q"+Replace this use of System.out by a logger.(«Ù·„8þð×¹å1
+L	java:S106X"+Replace this use of System.out by a logger.(þŒêÉùÿÿÿÿ8ÿð×¹å1

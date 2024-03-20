@@ -1,0 +1,38 @@
+
+~
+java:S1488,"bImmediately return this expression instead of assigning it to the temporary variable "selArmorID".(íØ‹C8ò»ªºå1
+…
+java:S1488`"cImmediately return this expression instead of assigning it to the temporary variable "selWeaponID".(â´€£şÿÿÿÿ8ò»ªºå1
+W
+java:S1161":Add the "@Override" annotation above this method signature(û¥–˜8ş»ªºå1
+L	java:S106"+Replace this use of System.out by a logger.(“²­£øÿÿÿÿ8¸Èˆùä1
+L	java:S106"+Replace this use of System.out by a logger.(Ø©Ùùÿÿÿÿ8¸Èˆùä1
+L	java:S106"+Replace this use of System.out by a logger.(Õ²ã„úÿÿÿÿ8ÿ»ªºå1
+L	java:S106"+Replace this use of System.out by a logger.(¸‘şÜûÿÿÿÿ8ÿ»ªºå1
+L	java:S106"+Replace this use of System.out by a logger.(¿üµşÿÿÿÿ8¸Èˆùä1
+G	java:S106'"+Replace this use of System.out by a logger.(ÄĞÍ8€¼ªºå1
+F	java:S106("+Replace this use of System.out by a logger.(¢‰´8€¼ªºå1
+L	java:S106)"+Replace this use of System.out by a logger.(¤•¬‹ıÿÿÿÿ8€¼ªºå1
+L	java:S106*"+Replace this use of System.out by a logger.(¿ó–›øÿÿÿÿ8¹Èˆùä1
+G	java:S106+"+Replace this use of System.out by a logger.(Í½óœ8¼ªºå1
+E
+java:S16592"#Declare "price" on a separate line.(¾æéşüÿÿÿÿ8‚¼ªºå1
+G	java:S106E"+Replace this use of System.out by a logger.(¹æ´8‚¼ªºå1
+G	java:S106H"+Replace this use of System.out by a logger.(±ãıÒ8‚¼ªºå1
+G	java:S106Q"+Replace this use of System.out by a logger.(ú“ìæ8ƒ¼ªºå1
+L	java:S106R"+Replace this use of System.out by a logger.(öÛãáøÿÿÿÿ8ƒ¼ªºå1
+F	java:S106T"+Replace this use of System.out by a logger.(Å8ƒ¼ªºå1
+G	java:S106["+Replace this use of System.out by a logger.(úÎ¬¯8ƒ¼ªºå1
+F	java:S106\"+Replace this use of System.out by a logger.(É×’a8½Èˆùä1
+G	java:S106]"+Replace this use of System.out by a logger.(šûø¦8„¼ªºå1
+L	java:S106^"+Replace this use of System.out by a logger.(¿ó–›øÿÿÿÿ8„¼ªºå1
+L	java:S106_"+Replace this use of System.out by a logger.(óĞüÜùÿÿÿÿ8½Èˆùä1
+@
+java:S1659f"#Declare "price" on a separate line.(ŞİÖ°8…¼ªºå1
+G	java:S106y"+Replace this use of System.out by a logger.(¹æ´8†¼ªºå1
+G	java:S106|"+Replace this use of System.out by a logger.(±ãıÒ8†¼ªºå1
+M	java:S106…"+Replace this use of System.out by a logger.(„†‡¶üÿÿÿÿ8‡¼ªºå1
+M	java:S106‡"+Replace this use of System.out by a logger.(öÛãáøÿÿÿÿ8ˆ¼ªºå1
+G	java:S106‰"+Replace this use of System.out by a logger.(Å8ˆ¼ªºå1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8‰¼ªºå1
