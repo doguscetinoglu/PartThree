@@ -1,0 +1,13 @@
+
+G
+java:S1481"*Remove this unused "array" local variable.(ğÏ¿8àÓ»¯ç1
+G	java:S106"+Replace this use of System.out by a logger.(æÂ®¤8äÓ»¯ç1
+G	java:S106"+Replace this use of System.out by a logger.(æÂ®¤8çÓ»¯ç1
+G	java:S106"+Replace this use of System.out by a logger.(‘’Ïº8èÓ»¯ç1
+G	java:S106"+Replace this use of System.out by a logger.(°ò¥8èÓ»¯ç1
+G	java:S106"+Replace this use of System.out by a logger.(á–°¸8éÓ»¯ç1
+L	java:S106"+Replace this use of System.out by a logger.(“»÷Íıÿÿÿÿ8êÓ»¯ç1
+L	java:S106"+Replace this use of System.out by a logger.(éÍÌíùÿÿÿÿ8ëÓ»¯ç1
+G	java:S106"+Replace this use of System.out by a logger.(ôôé§8ëÓ»¯ç1
+L	java:S106"+Replace this use of System.out by a logger.(Æë·ªşÿÿÿÿ8íÓ»¯ç1
+L	java:S106"+Replace this use of System.out by a logger.(”äÙóıÿÿÿÿ8îÓ»¯ç1
